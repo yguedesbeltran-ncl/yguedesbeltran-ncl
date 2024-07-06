@@ -1,7 +1,7 @@
 Hi there 👋 I'm a software developer engineer with 12+ years of experience in developing enterprise applications and open-source software.
 
 - 🔭 &nbsp;I’m currently working on something cool :wink:
-- 🌱 &nbsp;I’m currently learning Scala, Akka
+- 🌱 &nbsp;I’m currently learning Scala, Akka && Play Framework
 -   :key: GPG key: [`C242A5ED0F6EC179`](https://github.com/yguedesbeltran-ncl.gpg)
 
 <h4>Things I work with</h4>
