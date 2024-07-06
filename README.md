@@ -2,6 +2,7 @@ Hi there 👋 I'm a software developer engineer with 12+ years of experience in 
 
 - 🔭 &nbsp;I’m currently working on something cool :wink:
 - 🌱 &nbsp;I’m currently learning Scala, Akka
+-   :key: GPG key: [`C242A5ED0F6EC179`](https://github.com/yguedesbeltran-ncl.gpg)
 
 <h4>Things I work with</h4>
 <p>
