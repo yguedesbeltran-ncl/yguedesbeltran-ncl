@@ -21,3 +21,5 @@ Hi there 👋 I'm a software developer engineer with 12+ years of experience in 
   <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white" />
   <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />  
 </p>
+
+Learning a lot of stuffs
